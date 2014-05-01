@@ -42,3 +42,6 @@ h2 {
     padding: 10px;
     text-align: center;
 }
+.button:hover, .button:active {
+    border: 1px solid #39ab00;
+}
